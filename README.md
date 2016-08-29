@@ -3,7 +3,7 @@
 # Game Rules
 
 Rules 
-To begin with, the orignal deck is shuffled. 
+To begin with, the original deck is shuffled. 
 Each player starts a game with:
 - a “Repo” deck of 10 random “Repo” cards, with all the values facing down.
 - three random “Tool & Bug“ cards, whose value can be read by the player but kept hidden from the others.
