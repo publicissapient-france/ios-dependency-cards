@@ -42,7 +42,7 @@ The three players pop the topmost repo card from their own personal “Repo” d
  
 Craig picks the property “Stars”. All the players publicly declare the “Stars” value of their cards: Craig’s repo card has 1226 stars, Eddy 201 and Tim 2000. 
 
-Craig can then decide whether to use of of his “Tool & Bug” cards for the round. Craig owns a bug card that halves the number of stars of an opponent at his discretion, so he gives it to Tim, whose “Stars” points will now have a value of 1000.
+Craig can then decide whether to use one of his “Tool & Bug” cards for the round. Craig owns a bug card that halves the number of stars of an opponent at his discretion, so he gives it to Tim, whose “Stars” points will now have a value of 1000.
 
 Craig wins the round and puts all the “Repo” cards of the round on bottom of his “Repo” deck. Since he is the winner of the round, Craig remains the “caller”.
 
